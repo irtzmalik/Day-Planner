@@ -16,28 +16,27 @@ Go to Index.html or [https://irtzmalik.github.io/Day-Planner/](<https://irtzmali
 Choose Quiz
 
 ![Type] (
-![C:\Users\16478\Irtaza\Projects\Day-Planner\Images\D1.png](C:\Users\16478\Irtaza\Projects\Day-Planner\Images\D1.png)
+![Images/D1.png](Images/D1.png)
 )
 
 Click on icon & save
 
 ![Save] (
-![C:\Users\16478\Irtaza\Projects\Day-Planner\Images\D2.png](C:\Users\16478\Irtaza\Projects\Day-Planner\Images\D2.png)
+![Images/D2.png](Images/D2.png)
 )
 
-![Stored] (
-![C:\Users\16478\Irtaza\Projects\Day-Planner\Images\D3.png](C:\Users\16478\Irtaza\Projects\Day-Planner\Images\D3.png)
+![Stored] (![Images/D3.png](Images/D3.png)
 )
 
 Current event 
 
 ![Current] (
-![C:\Users\16478\Irtaza\Projects\Day-Planner\Images\D4.png](C:\Users\16478\Irtaza\Projects\Day-Planner\Images\D4.png)
+![Images/D4.png](Images/D4.png)
 )
 
 Past Event
 ![Past] (
-![C:\Users\16478\Irtaza\Projects\Day-Planner\Images\D5.png](C:\Users\16478\Irtaza\Projects\Day-Planner\Images\D5.png)
+![Images/D5.png](Images/D5.png)
 )
 
 
